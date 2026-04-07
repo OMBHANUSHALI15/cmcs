@@ -65,35 +65,6 @@ Automation helps reduce response time by triggering actions like blocking IP add
 
 ---
 
-## Architecture Overview
-
-```plaintext
-+----------------------+
-|   Cloud Resources    |
-| (EC2, S3, RDS etc.) |
-+----------+-----------+
-           |
-           v
-+----------------------+
-|  Monitoring Tools    |
-| (CloudWatch, Logs)   |
-+----------+-----------+
-           |
-           v
-+----------------------+
-|     SOC Dashboard    |
-| (SIEM Integration)   |
-+----------+-----------+
-           |
-           v
-+----------------------+
-|  Alerts & Response   |
-| (Automated Actions)  |
-+----------------------+
-```
-
----
-
 ## Real-Life Applications
 
 Cloud monitoring is widely used across industries:
@@ -140,6 +111,6 @@ A strong cloud monitoring strategy not only improves security but also ensures s
 
 ## Author
 
-**Name:** Your Name  
+**Name:** OM BHANUSHALI  
 **Course:** Cloud & Multi-Cloud Security (CMCS)  
-**Activity:** Stage 1 – Concept Exploration through Article Writing  
+Platform: Infosys Springboard
