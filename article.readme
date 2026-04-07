@@ -1,3 +1,4 @@
+
 # Cloud Monitoring in Security Operations Centers (SOC): Tools, Techniques, and Importance
 
 ## Introduction
@@ -23,29 +24,17 @@ In a SOC environment, cloud monitoring acts as an early warning system. It allow
 
 ## Key Tools Used in Cloud Monitoring
 
-### 1. Amazon CloudWatch
-Amazon CloudWatch is a monitoring service that tracks performance metrics and logs. It helps SOC teams:
-- Monitor system health  
-- Set alarms for unusual activity  
-- Automate responses to certain events  
+### Amazon CloudWatch
+Amazon CloudWatch is a monitoring service that tracks performance metrics and logs. It helps SOC teams monitor system health, set alarms for unusual activity, and automate responses to certain events.
 
-### 2. AWS CloudTrail
-AWS CloudTrail records all user activities and API calls within the cloud environment. It is useful for:
-- Security auditing  
-- Tracking user behavior  
-- Investigating incidents  
+### AWS CloudTrail
+AWS CloudTrail records all user activities and API calls within the cloud environment. It is useful for security auditing, tracking user behavior, and investigating incidents.
 
-### 3. AWS Config
-AWS Config monitors and records configuration changes in cloud resources. It helps:
-- Maintain compliance  
-- Detect misconfigurations  
-- Improve security posture  
+### AWS Config
+AWS Config monitors and records configuration changes in cloud resources. It helps maintain compliance, detect misconfigurations, and improve security posture.
 
-### 4. SIEM Tools
-Security Information and Event Management (SIEM) tools like Splunk and Microsoft Sentinel:
-- Collect and analyze logs from multiple sources  
-- Detect threats in real time  
-- Provide centralized dashboards for SOC teams  
+### SIEM Tools
+Security Information and Event Management (SIEM) tools like Splunk and Microsoft Sentinel collect and analyze logs from multiple sources, detect threats in real time, and provide centralized dashboards for SOC teams.
 
 ---
 
@@ -113,4 +102,5 @@ A strong cloud monitoring strategy not only improves security but also ensures s
 
 **Name:** OM BHANUSHALI  
 **Course:** Cloud & Multi-Cloud Security (CMCS)  
-Platform: Infosys Springboard
+**Platform:** Infosys Springboard  
+
